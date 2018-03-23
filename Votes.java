@@ -13,4 +13,5 @@ public class Votes {
     public int[] getListOfScores() {
         return listOfScores;
     }
+
 }
